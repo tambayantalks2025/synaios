@@ -1,0 +1,6 @@
+{
+  "name": "SYNAIOS",
+  "description": "Digital Solutions Specialist Firm helping businesses work smarter, faster, and better through practical digital solutions, AI, and automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
